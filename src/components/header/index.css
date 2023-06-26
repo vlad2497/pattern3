@@ -1,0 +1,9 @@
+.title {
+  font-family: "Nunito-Bold";
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  background-image: url("../../assets/images/lightning-mcqueen-2.jpeg");
+}
